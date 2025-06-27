@@ -111,7 +111,8 @@ Below is the full step-by-step solution for each task.
 
 ✅ **Solution:**
 
-- **Step 1:** Use `file` or `exiftool` to find the image dimensions:
+- **Step 1:** send a email to **xylmiz.challenge@gmail.com for help send email writing“help” word include. it will give you auto reply with instructions for get password.**
+- Step 2: Use `file` or `exiftool` to find the image dimensions:
     
     ```
     Image Width: 721
