@@ -148,7 +148,7 @@ Below is the full step-by-step solution for each task.
 - ✅ **Answer:**
     
     ```
-    1,450,670.75
+    542192
     ```
     
 
